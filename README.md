@@ -1,5 +1,5 @@
 # You.Haiku privacy policy
-Privacy Policy page for the YouHaiku Windows 10 app
+Privacy Policy page for the You.Haiku Windows 10 app
 
 ## *Data collected*
 
